@@ -1,0 +1,98 @@
+        body {
+            position: relative;
+            width: 1440px;
+            height: 1080px;
+
+            background: #FFFFFF;
+            box-shadow: 0px 2px 24px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+
+        #pnf {
+            position: relative;
+            width: 133px;
+            height: 25px;
+            left: 77px;
+            top: 40px;
+
+            font-family: 'Inconsolata';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 24px;
+            line-height: 25px;
+            letter-spacing: -0.08em;
+            text-transform: uppercase;
+
+            color: #333333;
+            display: block;
+        }
+
+        img {
+            height: 447.4263916015625px;
+            width: 539.2236938476562px;
+            left: 77px;
+            top: 265px;
+            border-radius: 0px;
+            display: inline-block;
+
+        }
+
+        #ihbn {
+
+            /* I have bad news for you */
+            position: absolute;
+            width: 586px;
+            height: 190px;
+            left: 735px;
+            top: 265px;
+
+            font-family: 'Space Mono';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 64px;
+            line-height: 95px;
+            letter-spacing: -0.035em;
+            display: block;
+            /* Gray 1 */
+
+            color: #333333;
+        }
+
+        #content {
+            position: absolute;
+            width: 381px;
+            height: 108px;
+            left: 736px;
+            top: 491px;
+
+            font-family: 'Space Mono';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 24px;
+            line-height: 36px;
+            letter-spacing: -0.035em;
+
+            /* Gray 2 */
+
+            color: #4F4F4F;
+        }
+        #rec{
+            position: absolute;
+width: 130px;
+height: 21px;
+left: 783px;
+top: 687px;
+
+font-family: 'Space Mono';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+
+letter-spacing: -0.035em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+background: #333333;
+}
